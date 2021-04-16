@@ -1,3 +1,3 @@
 # simple-calculator
 
-exclude node modules
+https://argafrl.github.io/simple-calculator/
